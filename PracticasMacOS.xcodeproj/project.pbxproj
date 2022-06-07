@@ -30,6 +30,8 @@
 		157EC0B9284FD3AD00E369AF /* PrimeraPractica.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimeraPractica.swift; sourceTree = "<group>"; };
 		157EC0BB284FD3BE00E369AF /* SegundaPractica.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegundaPractica.swift; sourceTree = "<group>"; };
 		157EC0BD284FD4B400E369AF /* MyPlaygroundPracticas.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlaygroundPracticas.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		157EC0BE284FDDEA00E369AF /* MyPlaygroundVariablePorReferenciaYValor.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlaygroundVariablePorReferenciaYValor.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		157EC0BF284FE5D600E369AF /* MyPlaygroundStruct.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlaygroundStruct.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,8 @@
 				157EC0B9284FD3AD00E369AF /* PrimeraPractica.swift */,
 				157EC0BB284FD3BE00E369AF /* SegundaPractica.swift */,
 				157EC0BD284FD4B400E369AF /* MyPlaygroundPracticas.playground */,
+				157EC0BE284FDDEA00E369AF /* MyPlaygroundVariablePorReferenciaYValor.playground */,
+				157EC0BF284FE5D600E369AF /* MyPlaygroundStruct.playground */,
 			);
 			path = PracticasMacOS;
 			sourceTree = "<group>";
